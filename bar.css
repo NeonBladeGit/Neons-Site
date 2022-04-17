@@ -134,6 +134,7 @@ input[type=checkbox]{
 
    body, html {
     height: 100%;
+    overflow: hidden;
   }
   
   * {
@@ -261,8 +262,8 @@ input[type=checkbox]{
   .project-site-text4 {
     color: white;
     position: absolute;
-    top: 92%;
-    left: 78%;
+    top: 95%;
+    left: 79%;
     transform: scale(1.1,2);
     border-color: #3581fc00;
   }
