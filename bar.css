@@ -207,3 +207,17 @@ input[type=checkbox]{
   .nav {
     font-family: "Lucida Console", "Courier New", monospace;
   }
+
+  .site-label {
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    color: white;
+  }
+
+  .site-text {
+    color: white;
+    position: absolute;
+    top: 36%;
+    left: 26%;
+  }
