@@ -206,6 +206,7 @@ input[type=checkbox]{
 
   .nav {
     font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 18px;
   }
 
   .site-label {
@@ -224,8 +225,8 @@ input[type=checkbox]{
 
   .site-label2 {
     position: absolute;
-    top: 20%;
-    left: 15%;
+    top: 23%;
+    left: 14%;
     color: white;
   }
 
@@ -253,5 +254,42 @@ input[type=checkbox]{
     top: 40%;
     left: 65%;
     transform: scale(1.1,2);
+    border-color: #3581fc00;
+  }
+
+
+  .project-site-text4 {
+    color: white;
+    position: absolute;
+    top: 92%;
+    left: 78%;
+    transform: scale(1.1,2);
+    border-color: #3581fc00;
+  }
+
+  .project-site-text5 {
+    color: white;
+    position: absolute;
+    top: 66%;
+    left: 24%;
+    font-size: 50px;
+    border-color: #3581fc00;
+  }
+
+  .project-site-text6 {
+    color: white;
+    position: absolute;
+    top: 66%;
+    left: 47%;
+    font-size: 50px;
+    border-color: #3581fc00;
+  }
+
+  .project-site-text7 {
+    color: white;
+    position: absolute;
+    top: 66%;
+    left: 70%;
+    font-size: 50px;
     border-color: #3581fc00;
   }
