@@ -221,3 +221,37 @@ input[type=checkbox]{
     top: 36%;
     left: 26%;
   }
+
+  .site-label2 {
+    position: absolute;
+    top: 20%;
+    left: 15%;
+    color: white;
+  }
+
+  .project-site-text {
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 19%;
+    transform: scale(1.1,2);
+    border-color: #3581fc00;
+  }
+
+  .project-site-text2 {
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 42%;
+    transform: scale(1.1,2);
+    border-color: #3581fc00;
+  }
+
+  .project-site-text3 {
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 65%;
+    transform: scale(1.1,2);
+    border-color: #3581fc00;
+  }
