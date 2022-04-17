@@ -38,6 +38,7 @@
     display: flex;
     gap: 1em;
     font-size: 18px;
+    font-family: "Monospace", "Lucida Console";
    }
    .menu li:hover {
     background-color: #1d1d1d;
@@ -190,9 +191,19 @@ input[type=checkbox]{
     color: white;
   }
 
-
+  .twitter-icon {
+    display: inline-block; 
+    margin-left: 5vh;
+    position: absolute;
+    bottom: 5%;
+    left: 6%;
+    color: white;
+  }
 
   .sm-logo {
     color: var(--base-color);
   }
 
+  .nav {
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
