@@ -263,8 +263,8 @@ input[type=checkbox]{
     color: white;
     position: absolute;
     top: 95%;
-    left: 79%;
-    transform: scale(1.1,2);
+    left: 71%;
+    font-size: 24px;
     border-color: #3581fc00;
   }
 
