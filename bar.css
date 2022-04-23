@@ -295,4 +295,4 @@ input[type=checkbox]{
     border-color: #3581fc00;
   }
 
-   .btn {border-radius: 8px; width: 20%;}
+   .btn {border-radius: 8px; width: 20%; background-color: #ffffff00; color: white;}
