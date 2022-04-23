@@ -294,3 +294,12 @@ input[type=checkbox]{
     font-size: 50px;
     border-color: #3581fc00;
   }
+
+.btn{
+    border: none;
+    padding: 7px 26px;
+    text-align: center;
+    color: white;
+    background: #dc3545;
+    border-radius: 40px;
+}
